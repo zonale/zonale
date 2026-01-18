@@ -1,9 +1,7 @@
-
-                                [![Hits](https://hits.sh/github.com/Hunkery/hits.svg?style=for-the-badge&label=cute&extraCount=603&color=ff859f)](https://hits.sh/github.com/Hunkery/hits/)
-
- 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/cookierun/images/f/f0/Cr_1010063-joy2.gif/revision/latest?cb=20250416032106"<img width="120"/>
-
+  <img src="https://static.wikia.nocookie.net/cookierun/images/2/27/Cookie0063z03_shop_exhausted.png/revision/latest?cb=20180813205133" width="200" />
 </p>
- 
+
+
+<p align="center">
+  <a href="https://rentry.co/plumpering"><strong>rentry</strong> </a>   <a href="https://plump.straw.page"><strong>straw</strong> </a>
