@@ -4,4 +4,4 @@
 
 
 <p align="center">
-  <a href="https://rentry.co/plumpering"><strong>rentry</strong> </a>   <a href="https://plump.straw.page"><strong>straw</strong> </a>
+  <a href="https://rentry.co/plumpering"><strong>rentry</strong> </a>   <a href="https://zonal.straw.page"><strong>straw</strong> </a>
